@@ -16,6 +16,7 @@ The application takes as input student information such as gender, ethnicity, pa
 - **Version Control**: GitHub
 
 ## 📂 Project Structure
+```
 ├── artifacts/              # Saved model and preprocessor
 ├── notebook/               # EDA and model experimentation
 ├── src/
@@ -29,6 +30,7 @@ The application takes as input student information such as gender, ethnicity, pa
 ├── application.py          # Flask app entry point
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚙️ ML Pipeline
 1. **Data Ingestion** — loads raw data and splits into train/test sets
